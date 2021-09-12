@@ -1,6 +1,6 @@
 ## Projeto Integrador: 2019-2
 
-SmartTag
+## SmartTag
 
 ### Introdução do projeto
 
@@ -44,7 +44,7 @@ Requisitos não Funcionais:
 
 ***
 
-#### link do git
+#### Link do git
 [Acesse o Repositório](https://github.com/DaviNeves0/SmartTag)
 
 
