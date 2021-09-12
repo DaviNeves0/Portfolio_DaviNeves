@@ -71,5 +71,5 @@ Entre as habilidades interpessoais (Soft Skills), consegui participar ativamente
 
 - Desenvolver códigos em C++: Sei utilizar com ajuda;
 - Integração de sistemas elétricos: Sei utilizar com autonomia;
-- Metodologias Scrum: Conceitos iniciais aprendidos na prática.
+- Metodologias Scrum: Conceitos iniciais aprendidos na prática;
 - App Inventor: Aprendi a utilizá-lo com autonomia;
