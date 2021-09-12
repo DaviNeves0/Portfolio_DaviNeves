@@ -22,7 +22,7 @@ O objetivo desse projeto é integrar um sistema Arduino com um aparelho móvel u
 
 Ao longo do semestre, a equipe desenvolveu um sistema Arduino para o destravamento de fechaduras elétricas com o auxílio de um aparelho Smartphone conectado ao módulo Bluetooth, visando a segurança e a facilidade para a abertura da tranca. 
 
-#### Lista de Requisitos 
+### Lista de Requisitos 
 
 Para a validação das entregas, utilizamos os seguintes critérios 
 
@@ -44,7 +44,7 @@ Requisitos não Funcionais:
 
 ***
 
-#### Link do git
+### Link do git
 [Acesse o Repositório](https://github.com/DaviNeves0/SmartTag)
 
 
