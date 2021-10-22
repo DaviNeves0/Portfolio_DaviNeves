@@ -27,8 +27,7 @@ Mitim Atas de Reunião
 OnlyMotors
 
 ## Meus Principais Conhecimentos
-
-    Minha maior area de conhecimento se base na criação de sites e aplicação web, utilizando HTML5 e CSS3 e JavaScrit, também ultilizo php em alguns projetos WordPress, mas meu foco está nas seguintes linguagens e ferramentas:    
+ Minha maior area de conhecimento se base na criação de sites e aplicação web, utilizando HTML5 e CSS3 e JavaScrit, também ultilizo php em alguns projetos WordPress, mas meu foco está nas seguintes linguagens e ferramentas:    
 
 * Linguagens de Programação:
     * JavaScript
