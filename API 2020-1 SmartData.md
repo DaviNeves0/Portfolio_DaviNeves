@@ -1,6 +1,7 @@
 ## Projeto Integrador: 2020-1
 
 ## Projeto 1º Semestre: ***SmartData***.
+<img width="50%" alignt="center" src="https://i.ibb.co/KmndGwM/Smart-Data-azul.png" alt="Smart-Data-azul"> 
 
 ### Introdução ao projeto
 
@@ -18,6 +19,10 @@ A SPC - Brasil recebe milhares de dados por dia, alguns desse ndesnessários. Co
 ### Solução
 
 SmartData é um sistema criado para os nossos parceiros da SPC - Brasil, que analisa e verifica erros de uma fonte de dados, que reúne informações sobre negócios, localização e confidencialidade, seja para avaliar o risco de crédito, seja para medir a confiabilidade de um cliente. O software SmartData avalia, por exemplo, se a fonte inserida possui condições de proporcionar uma visualização melhor dos dados, se a mesma possui coêrencia ou até mesmo se possui sigilo dos dados, e nesse sistema, as informações pessoais da fonte são coletadas e tratadas com a maior segurança e confiabilidade possiveis.
+
+GIF com a aplicação funcionando localmente:
+
+<img src="https://i.ibb.co/hsSny9R/Smart-Data.gif" alt="Smart-Data" border="0">
 
 ### Lista de Requisitos 
 
