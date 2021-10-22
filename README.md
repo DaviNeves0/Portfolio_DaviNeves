@@ -1,15 +1,5 @@
-## Projeto Integrador: 2019-2
 
-## Projeto 1º Semestre: ***SmartTag***.
-
-### Introdução ao projeto
-
-A Faculdade de Tecnologia do Estado de São Paulo (Fatec) que promove a tecnologia para seus alunos, assim formando profissionais qualificados que são capazes de atender as demandas do mercado de trabalho, atuando de forma responsável e inovadora. No primeiro semestre, foi proposto aos alunos do curso de Análise e desenvolvimento de sistemas encontrar uma necessidade no dia a dia que pudesse ser solucionada com o auxílio da tecnologia IOT -Internet das Coisas.
-
-
-### Empresa parceira
-
-FATEC Prof. Jessen Vidal# Davi Silva Martins das Neves
+# Davi Silva Martins das Neves
 
 ## Introdução
 
