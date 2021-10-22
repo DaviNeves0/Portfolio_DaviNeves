@@ -9,6 +9,9 @@ Sempre fui um amante de jogos digitais e apaixonado por tecnologia, mas de fato,
 
 Atualmente trabalho como freelancer na área de desenvolvimento Web, criando sites, API's, sistemas Webs e a cada dia estou aprendendo mais com meus projetos. 
 
+<img src="https://firebasestorage.googleapis.com/v0/b/chamados-be299.appspot.com/o/imagens%2F56R48GoykFQeCnKwrDnJEWCzIok1%2Feu.jpeg?alt=media&token=275c9a4f-9357-46f0-82d9-938ce38451c8" alt="Davi Neves Foto" style="width:150px;"/>
+
+
 ## Meus Projetos
 
 ### Em 2019-2
