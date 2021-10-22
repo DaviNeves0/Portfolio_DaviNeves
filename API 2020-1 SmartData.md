@@ -25,18 +25,11 @@ Para a validação das entregas, utilizamos os seguintes critérios
 
 Requisitos Funcionais: 
 
-1.	Facilitar o destravamento de uma fechadura eletrônica através de um aplicativo instalado no smartphone do usuário.
-2.	A conexão entre o aplicativo e a placa Arduino é realizada via Bluetooth. 
-3.	Após a liberação da tranca, o usuário deve ser capaz de abrir a fechadura com um Tag.
-4.	A fechadura não pode ser acionada pela Tag sem antes se ativada pelo aplicativo.
 
 
 
 Requisitos não Funcionais:
 
-1.	Utilizar a plataforma App Inventor para criação do aplicativo.
-2.	Arduino para o sistema físico.
-3.	Utilizar Arduino IDE
 
 
 ***
@@ -49,24 +42,17 @@ Requisitos não Funcionais:
 
 Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 
-- App Inventor: Ferramenta de desenvolvimento para aplicativos Mobile.
-- Arduino IDE para o desenvolvimento do software
-- Placa Arduino UNO
-- Diodo Emissor de Luz
-- Módulo Trasceiver Bluetooth Rs232 / Hc-06
-- Leitor Rfid Rc522 + Tag Mifare
-- Linguagem de programação C++
 
 
 ### Contribuições pessoais
 
-Com o desenvolvimento do projeto e o decorrer do semestre, pude desenvolver habilidades técnicas (Hard Skills), trabalhei efetivamente no desenvolvimento do sistema lógico com Arduíno, programando em C++ e com o desenvolvimento do App móvel. Ainda, com ajuda dos colegas do grupo, fui capaz de aprender sobre elétrica e o funcionamento de circuitos fechados. 
+Com esse projeto pude obter maior conhecimento nas plataformas web, já que o sistema seria impletamento para WEB. A minha contribuição para o funcionamento e para a criação do software foram, a programação a interface do usuário(layout), visando a facilidade e a intuitividade da aplicação. Aprendi como se organiza e estrutura uma página Web, trabalhando com tag HTML e estilazando com CSS, tambem pude uma maior contato com o BootStrap para fazer a responsividade da aplicação.
 
 Entre as habilidades interpessoais (Soft Skills), consegui participar ativamente das reuniões e entrega dos requisitos. O grupo utilizou a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.   
 
 ### Aprendizados Efetivos HS
 
-- Desenvolver códigos em C++: Sei utilizar com ajuda;
-- Integração de sistemas elétricos: Sei utilizar com autonomia;
+- Desenvolver códigos em HTML5: Aprendi a utilizá-lo com autonomia;
+- Estilização das páginas com CSS3: Aprendi a utilizá-lo com autonomia;
 - Metodologias Scrum: Conceitos iniciais aprendidos na prática;
-- App Inventor: Aprendi a utilizá-lo com autonomia;
+- Formatação de Layout com BootStrap: Aprendi a utilizá-lo com autonomia;
