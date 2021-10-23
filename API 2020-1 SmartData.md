@@ -1,6 +1,6 @@
 ## Projeto Integrador: 2020-1
 
-## Projeto 1º Semestre: ***SmartData***.
+## Projeto 2º Semestre: ***SmartData***.
 <img width="50%" alignt="center" src="https://i.ibb.co/KmndGwM/Smart-Data-azul.png" alt="Smart-Data-azul"> 
 
 ### Introdução ao projeto
