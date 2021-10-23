@@ -30,12 +30,27 @@ Para a validação das entregas, utilizamos os seguintes critérios
 
 Requisitos Funcionais: 
 
+COMPLETUDE:
+- Todos os campos obrigatórios devem estar preenchidos.
+
+CONFORMIDADE:
+- Os dados devem estar senguindo as regras de negócios(formato, tamanho, etc).
+
+CONSISTÊNCIA:
+- Todas as bases de dados devem estar atualizadas igualmentes.
+
+UNICIDADE:
+- Em cada base que tenha dados geoespaciais é importante que o mesmo endereço, no mesmo estado, não tenha múltiplos registros.
+
+ACURÁCIA:
+- Os dados precisam ser válidados como dados reais.
 
 
 
 Requisitos não Funcionais:
 
-
+- Aplicação Desktop.
+- Análise e tratamento de arquivos no formato xlsx e csv.
 
 ***
 
@@ -47,7 +62,11 @@ Requisitos não Funcionais:
 
 Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 
-
+Python: Para fazer o backend;
+HTML5: Estrutarar a página WEB;
+CSS3: Layout e estilização; 
+JavaScript: Fazer as funcionalidades do lado do cliente 
+Bootstrap: Ajutar o layout para o modo responsivo 
 
 ### Contribuições pessoais
 
