@@ -11,6 +11,7 @@ Atualmente trabalho como freelancer na área de desenvolvimento Web, criando sit
 
 <img src="https://firebasestorage.googleapis.com/v0/b/chamados-be299.appspot.com/o/imagens%2F56R48GoykFQeCnKwrDnJEWCzIok1%2Feu.jpeg?alt=media&token=275c9a4f-9357-46f0-82d9-938ce38451c8" alt="Davi Neves Foto" style="width:150px;"/>
 
+***
 
 ## Meus Projetos
 
@@ -28,6 +29,8 @@ Mitim Atas de Reunião
 
 ### Em 2021-2
 OnlyMotors
+
+***
 
 ## Meus Principais Conhecimentos
  Minha maior area de conhecimento se base na criação de sites e aplicação web, utilizando HTML5 e CSS3 e JavaScrit, também ultilizo php em alguns projetos WordPress, mas meu foco está nas seguintes linguagens e ferramentas:    
@@ -54,6 +57,8 @@ OnlyMotors
 * Ferramentas de Desing:
     * Figma - Para a crição de protótipagem e gráficos vetorizados 
     * AdoberXD - Para design de Usuários e criação de protótipos
+    
+***    
     
 ## Contatos
 * [GIT](https://www.git.com)
