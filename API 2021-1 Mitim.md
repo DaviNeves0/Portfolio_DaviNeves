@@ -28,15 +28,15 @@ Demostração do Projeto:
 
 Solitação de Acesso
 
-![](https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Solicita%C3%A7%C3%A3o%20e%20Aprova%C3%A7%C3%A3o%20de%20Acesso.gif)
+![](https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Solicita%C3%A7%C3%A3o%20e%20Aprova%C3%A7%C3%A3o%20de%20Acesso).gif)
 
 Recuperação de Senhas
 
-![](https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Redefini%C3%A7%C3%A3o%20de%20Senha.gif?raw=true)
+![](https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(Redefini%C3%A7%C3%A3o%20de%20Senha).gif?raw=true)
 
 Manipulação de Atas
 
-![](https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(ATA%20de%20Reuni%C3%A3o.gif?raw=true)
+![](https://github.com/marciosousa4/Repositorio_de_Imagens/blob/main/GifM%C3%ADtim(ATA%20de%20Reuni%C3%A3o).gif?raw=true)
 
 ### Lista de Requisitos 
 
