@@ -2,6 +2,8 @@
 
 ## Projeto 1º Semestre: ***SmartTag***.
 
+![image](https://github.com/DaviNeves0/SmartTAG/blob/main/files/220px-SmartTAG.png)
+
 ### Introdução ao projeto
 
 A Faculdade de Tecnologia do Estado de São Paulo (Fatec) que promove a tecnologia para seus alunos, assim formando profissionais qualificados que são capazes de atender as demandas do mercado de trabalho, atuando de forma responsável e inovadora. No primeiro semestre, foi proposto aos alunos do curso de Análise e desenvolvimento de sistemas encontrar uma necessidade no dia a dia que pudesse ser solucionada com o auxílio da tecnologia IOT -Internet das Coisas.
@@ -33,7 +35,11 @@ Requisitos Funcionais:
 3.	Após a liberação da tranca, o usuário deve ser capaz de abrir a fechadura com um Tag.
 4.	A fechadura não pode ser acionada pela Tag sem antes se ativada pelo aplicativo.
 
+### Estrutura lógica 
+![image](https://github.com/DaviNeves0/SmartTAG/blob/main/files/WhatsApp%20Image%202021-09-09%20at%2012.59.07%20(1).jpeg)
 
+### Estrutura Fisica
+![image](https://github.com/DaviNeves0/SmartTAG/blob/main/files/WhatsApp%20Image%202021-09-09%20at%2012.59.07.jpeg)
 
 Requisitos não Funcionais:
 
@@ -63,7 +69,8 @@ Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 
 ### Contribuições pessoais
 
-Com o desenvolvimento do projeto e o decorrer do semestre, pude desenvolver habilidades técnicas (Hard Skills), trabalhei efetivamente no desenvolvimento do sistema lógico com Arduíno, programando em C++ e com o desenvolvimento do App móvel. Ainda, com ajuda dos colegas do grupo, fui capaz de aprender sobre elétrica e o funcionamento de circuitos fechados. 
+Com o desenvolvimento do projeto e o decorrer do semestre, pude desenvolver habilidades técnicas (Hard Skills), trabalhei efetivamente no desenvolvimento dos sistemas físico, fazendo as ligações de fios e montando o sistema do Leitor Rfid com o auxio de um multimentro para testar as saídas e entradas dos fios, e na parte lógica 
+, programando em C++, ultilizando o Arduino para criar os códigos de controle e com o desenvolvimento do App móvel. Ainda, com ajuda dos colegas do grupo, fui capaz de aprender sobre elétrica e o funcionamento de circuitos fechados. 
 
 Entre as habilidades interpessoais (Soft Skills), consegui participar ativamente das reuniões e entrega dos requisitos. O grupo utilizou a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.   
 
