@@ -90,7 +90,7 @@ Back-End
 
 ### Contribuições pessoais
 
-Durante o desenvolvimento deste projeto, tive a oportunidade de trabalhar com diversas tecnlogias que até então não tinha nenhum contato, como por exemplo, Java como linguagem de Backend e para a criação das Rotas e a implementação do servidor RESTtFull. A minha participação neste projeto foi a parte do FrontEnd, criando as páginas de criação das atas. Ultilizamos React e para os estilos de componentes fiz a utilização do Ant Desing para inserir os Inputs na página. Após ter a página monstada, ultilizei a biblioteca do Axio para fazer a comunicação e as requisisções com o BackEnd. 
+Durante o desenvolvimento deste projeto, tive a oportunidade de trabalhar com diversas tecnlogias que até então não havia tido nenhum contato, como por exemplo, Java como linguagem de Backend, criação das Rotas e implementação do servidor RESTtFull. A minha participação neste projeto foi a parte do FrontEnd, montando as páginas de criação das atas. Ultilizamos React e nos estilos de componentes fiz uso do Ant Desing para inserir os Inputs na página. Após ter a página montada, ultilizei a biblioteca Axio para fazer a comunicação e as requisições com o BackEnd. 
 Entre as habilidades interpessoais (Soft Skills), consegui participar ativamente das reuniões e entrega dos requisitos. O grupo utilizou a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.   
 
 ### Aprendizados Efetivos HS
