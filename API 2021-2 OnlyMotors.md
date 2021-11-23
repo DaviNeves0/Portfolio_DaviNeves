@@ -91,8 +91,8 @@ Back-End
 
 ### Contribuições pessoais
 
-Para desevolver este projetos, utilizamos a stack MERN (React.js + Node.js + Express + MongoDB). Neste projeto fiquei responsavel para a criação do BackEnd, para subir o servidor e criação das rotas, utilizei a biblioteca Express para realzar esse serviço, para a conexão e a inserção de dados utilizei um ODM chamado Mongoose que facilita a criação das Models e deixa o código mais limpo de se ler. Para a ultima entrega deste projeto, trabalhei na criação do Front Web, onde utilizamos React com bibliotes React-Router-Dom para as rotas e o Axios para criar a conexão com o Back e a criação das requisições. 
-Entre as habilidades interpessoais (Soft Skills), consegui participar ativamente das reuniões e entrega dos requisitos. O grupo utilizou a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.   
+Para desenvolver este projetos, utilizamos a stack MERN (React.js + Node.js + Express + MongoDB). Neste projeto fiquei responsável para a criação do BackEnd, para subir o servidor e criação das rotas, utilizei a biblioteca Express para realizar esse serviço, para a conexão e a inserção de dados utilizei um ODM chamado Mongoose que facilita a criação das Models e deixa o código mais limpo de se ler. Para a ultima entrega deste projeto, trabalhei na criação do Front Web, onde utilizamos React com a biblioteca React-Router-Dom para as rotas e o Axios para criar a conexão com o Back e a criação das requisições. 
+Entre as habilidades interpessoais (Soft Skills), consegui participar ativamente das reuniões e entrega dos requisitos. O grupo utilizou a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.
 
 ### Aprendizados Efetivos HS
 
