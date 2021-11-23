@@ -1,7 +1,7 @@
 ## Projeto Integrador: 2021-2
 
 ## Projeto 5º Semestre: ***OnlyMotors***.
-![](https://github.com/marciosousa4/Mitim_Atas_Reuniao)
+<img src="https://i.ibb.co/7YK8RV4/Logo-1.png" alt="Logo-1" border="0" />
 
 ### Introdução ao projeto
 
